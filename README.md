@@ -13,7 +13,6 @@
 
 ## 🆘 Usage 🆘
 ### 📁 Generate the payload with the c2 of your choice(*.bin)
--
 ### ⚔️ Misery.exe --shellcode \<URL/shellcode.bin>
 
 
